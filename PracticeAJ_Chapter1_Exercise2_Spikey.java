@@ -8,7 +8,7 @@ package book.practice.assignments;
 // Date: October 13, 2019
 
 // 2.	Write a complete Java program called Spikey that print the following output:
-public class PracticeAJ_Chapter1_Exercise1_Spikey {
+public class PracticeAJ_Chapter1_Exercise2_Spikey {
     public static void main(String[] args) {
         System.out.println("   \\/");
         System.out.println("  \\\\//");
