@@ -17,7 +17,6 @@ public class PracticeAQ_Chapter1_Exercise9_Egg {
         slashes3();
         slashes4();
         line2();
-
     }
 
     public static void line1() {
