@@ -5,7 +5,7 @@ package book.practice.assignments;
 // Book: Building Java Programs 5e
 // Chapter 1 - Exercise Number 9
 // Instructor: Kasey Champion
-// Date: October 13, 2019
+// Date: October 14, 2019
 
 // Write a program called Egg that displays the following output:
 public class PracticeAQ_Chapter1_Exercise9_Egg {
