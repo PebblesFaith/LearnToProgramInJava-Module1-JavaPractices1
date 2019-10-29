@@ -15,7 +15,7 @@ public class PracticeAK_Chapter1_Exercise3_WellFormed {
         System.out.println("braces.");
         System.out.println();
         System.out.println("A system.out.println statement");
-        System.out.println("has { and } braces and usually a");
+        System.out.println("has ( and ) braces and usually a");
         System.out.println("String that starts and ends");
         System.out.println("with a \" quotation character.");
         System.out.println("(But we type \"\\ instead!)");
